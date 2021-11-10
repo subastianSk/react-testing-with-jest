@@ -4,9 +4,6 @@ import {
   Multiplication
 } from '../Math'
 
-const a = 5;
-const b = 2;
-
 test('Return sum of two arguments', () => {
   // Arrange
   const a = 5;
