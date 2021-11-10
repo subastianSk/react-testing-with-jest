@@ -1,8 +1,11 @@
-import { AddTodo } from '../components/helper';
+import {
+  AddTodo
+} from '../components/helper';
 
 test('Should add todo to the list', () => {
   // Arrange
-
+  const a = 'aku sayang kamu';
+  const expected = 'aku sayang kamu';
   // Act
 
   // Assert
